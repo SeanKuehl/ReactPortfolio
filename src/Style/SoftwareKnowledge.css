@@ -1,0 +1,115 @@
+
+.SoftwareKnowledgeDiv {
+  text-align: center;
+}
+
+.OrganizerDiv {
+  justify-content: center;
+  display: flex;
+  margin-left: 3%;
+}
+
+
+
+.LanguagesList {
+  background: #3399ff;
+  padding: 5vw;
+  
+}
+
+.LanguagesList:hover {
+  background: darkblue;
+}
+
+.Language {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 2vw;
+}
+
+.Language:hover {
+  background: royalblue;
+}
+
+.FrameworksList {
+  background: #ff9999;
+  padding: 5vw;
+}
+
+.FrameworksList:hover {
+  background: darkred;
+}
+
+.Framework {
+  background: #ffe5e5;
+  color: darkred;
+  margin: 2vw;
+}
+
+.Framework:hover {
+  background: tomato;
+}
+
+.SkillsList {
+  background: #eacf95;
+  padding: 5vw;
+}
+
+.SkillsList:hover {
+  background: darkgoldenrod;
+}
+
+.Skill {
+  background: #ffe5e5;
+  color: darkorange;
+  margin: 2vw;
+}
+
+.Skill:hover {
+  background: lightgoldenrodyellow;
+}
+
+
+.Link:hover {
+  text-decoration: underline green;
+}
+
+
+
+
+.ListHeader {
+  font-size: 3vh;
+  color: green;
+  font-weight: bold;
+}
+
+.ListHeader:hover {
+  background-color: lightgreen;
+}
+
+.SectionHeader {
+  margin: auto;
+  min-width: 28vw;
+  
+  margin-bottom: 4vh;
+  
+  
+}
+
+.SectionHeader:hover {
+  text-decoration: underline wavy green 1px;
+}
+
+
+
+.SectionHeader:first-letter {
+  color: green;
+}
+
+.SectionHeader:last-letter {
+  color:green;
+}
+
+
+
+

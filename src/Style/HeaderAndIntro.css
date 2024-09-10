@@ -1,0 +1,36 @@
+.HeaderDiv {
+  text-align: center;
+  
+}
+
+
+
+.intro {
+  font-size: 3vh;
+  width: 100vh;
+  margin: auto;
+  color: #000000;
+  
+}
+
+
+
+.glow {
+  font-size: 8vh;
+  color: #000000;
+  -moz-animation: glow 1s ease-in-out 1s infinite alternate;
+  -webkit-animation: glow 1s ease-in-out 1s infinite alternate;
+  animation: glow 1s ease-in-out 1s infinite alternate;
+  
+  
+  
+}
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 4px #ffffff, 0 0 5px #ffffff, 0 0 6px #ffffff, 0 0 7px #ffffff, 0 0 8px #ffffff, 0 0 9px #ffffff, 0 0 10px #ffffff;
+  }
+  to {
+    text-shadow: 0 0 5px #afea9d, 0 0 6px #afea9d, 0 0 7px #afea9d, 0 0 8px #afea9d, 0 0 9px #afea9d, 0 0 10px #afea9d, 0 0 11px #afea9d;
+  }
+}

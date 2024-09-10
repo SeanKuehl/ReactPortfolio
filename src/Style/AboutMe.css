@@ -1,0 +1,48 @@
+
+.AboutMeDiv {
+  text-align: center;
+}
+
+.Link {
+  text-decoration: none;
+  color:green;
+}
+
+.Link:hover {
+  text-decoration: underline green;
+}
+
+
+.SectionBrackets {
+  color: green;
+}
+
+.SectionHeader {
+  margin: auto;
+  width: 12vw;
+  margin-bottom: 4vh;
+  
+}
+
+.SectionHeader:hover {
+  text-decoration: underline wavy green 1px;
+}
+
+.AboutMeText {
+  font-size: 3vh;
+  margin: auto;
+  width: 50vw;
+}
+
+
+.SectionHeader:first-letter {
+  color: green;
+}
+
+.SectionHeader:last-letter {
+  color:green;
+}
+
+
+
+
