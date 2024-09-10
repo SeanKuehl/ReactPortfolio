@@ -87,28 +87,8 @@
   background-color: lightgreen;
 }
 
-.SectionHeader {
-  margin: auto;
-  min-width: 28vw;
-  
-  margin-bottom: 4vh;
-  
-  
-}
-
-.SectionHeader:hover {
-  text-decoration: underline wavy green 1px;
-}
 
 
-
-.SectionHeader:first-letter {
-  color: green;
-}
-
-.SectionHeader:last-letter {
-  color:green;
-}
 
 
 

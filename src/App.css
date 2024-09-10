@@ -4,15 +4,6 @@
 
 
  
-.BeforeScroll {
-  display: none;
-}
-
-.AfterScroll {
-  display: block;
-}
-
-
 .SectionDivider {
   width:50%;
   text-align:center;
@@ -21,7 +12,31 @@
   color: #afea9d;
 }
 
-.slide-in {
-  
-  opacity: 1 !important;
+
+.SectionHeader {
+  margin: auto;
+  min-width: 28vw;
+  margin-bottom: 4vh;
 }
+
+.SectionHeader:hover {
+  text-decoration: underline wavy green 1px;
+}
+
+
+.SectionBrackets {
+  color: green;
+}
+
+
+
+a {
+  text-decoration: underline green;
+  color: green;
+}
+
+a:hover {
+  color: lightgreen;
+  text-decoration: underline lightgreen;
+}
+

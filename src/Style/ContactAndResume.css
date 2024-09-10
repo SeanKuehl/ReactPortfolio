@@ -1,27 +1,6 @@
 
 
 
-.SectionHeader {
-  margin: auto;
-  width: 12vw;
-  margin-bottom: 4vh;
-  
-}
-
-.SectionHeader:hover {
-  text-decoration: underline wavy green 1px;
-}
-
-
-
-
-.SectionHeader:first-letter {
-  color: green;
-}
-
-.SectionHeader:last-letter {
-  color:green;
-}
 
 
 
@@ -30,15 +9,7 @@
   font-size: 2.5vh;
 }
 
-a {
-  text-decoration: underline green;
-  color: green;
-}
 
-a:hover {
-  color: lightgreen;
-  text-decoration: underline lightgreen;
-}
 
 .ContactDiv {
   margin: auto;

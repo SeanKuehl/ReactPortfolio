@@ -6,9 +6,7 @@
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
-  
   margin: auto;
-  
   width: 50vw;
 }
 
@@ -34,40 +32,13 @@
 }
 
 
-.SectionBrackets {
-  color: green;
-}
-
-.SectionHeader {
-  margin: auto;
-  width: 12vw;
-  margin-bottom: 4vh;
-  
-}
-
-.SectionHeader:hover {
-  text-decoration: underline wavy green 1px;
-}
-
-
-
-
-.SectionHeader:first-letter {
-  color: green;
-}
-
-.SectionHeader:last-letter {
-  color:green;
-}
-
-
 .ExperienceHeader {
   text-decoration: underline 5px dotted green;
   font-size: 4vh;
 }
 
 .ExperienceHeader:hover {
-  background-color: lightgreen;
+  text-decoration: underline 5px solid darkgreen;
 }
 
 .ExperienceText {

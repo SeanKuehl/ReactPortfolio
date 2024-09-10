@@ -10,9 +10,6 @@ import ContactAndResume from './Components/ContactAndResume'
 
 
 
-
-//<img src={logo} className="App-logo" alt="logo" />
-
 function App() {
 
   
@@ -20,11 +17,11 @@ function App() {
 
   return (
     <div className="App">
-      <HeaderAndIntro className="BeforeScroll" name="{ Sean Kuehl }" message={introMessage}></HeaderAndIntro>
-      <AboutMe className="BeforeScroll"></AboutMe>
-      <SoftwareKnowledge className="BeforeScroll"></SoftwareKnowledge>
-      <Experience className="BeforeScroll"></Experience>
-      <ContactAndResume className="BeforeScroll"></ContactAndResume>
+      <HeaderAndIntro name="{ Sean Kuehl }" message={introMessage}></HeaderAndIntro>
+      <AboutMe></AboutMe>
+      <SoftwareKnowledge></SoftwareKnowledge>
+      <Experience></Experience>
+      <ContactAndResume></ContactAndResume>
     </div>
   );
 }

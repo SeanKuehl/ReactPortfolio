@@ -1,7 +1,7 @@
 
 import '../Style/HeaderAndIntro.css';
 import '../App.css';
-//<img src={logo} className="App-logo" alt="logo" />
+
 
 function HeaderAndIntro(props) {
   return (
