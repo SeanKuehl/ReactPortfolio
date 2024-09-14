@@ -10,9 +10,9 @@
 
 
 .AboutMeText {
-  font-size: 3vh;
+  font-size: 3vw;
   margin: auto;
-  width: 50vw;
+  max-width: 80vw;
 }
 
 

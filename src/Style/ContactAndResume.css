@@ -6,19 +6,19 @@
 
 .ContactInfo {
   margin-bottom: 2vw;
-  font-size: 2.5vh;
+  font-size: 0.8em;
 }
 
 
 
 .ContactDiv {
   margin: auto;
-  width: 25vw;
+  width: 50vw;
 }
 
 
 .ContactCopy {
-  margin-top: 20vh;
+  margin-top: 20vw;
   color: green;
 }
 

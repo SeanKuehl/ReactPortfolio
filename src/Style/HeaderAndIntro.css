@@ -6,8 +6,8 @@
 
 
 .intro {
-  font-size: 3vh;
-  width: 100vh;
+  font-size: 3vw;
+  max-width: 100vh;
   margin: auto;
   color: #000000;
   
@@ -16,7 +16,7 @@
 
 
 .glow {
-  font-size: 8vh;
+  font-size: 8vw;
   color: #000000;
   -moz-animation: glow 1s ease-in-out 1s infinite alternate;
   -webkit-animation: glow 1s ease-in-out 1s infinite alternate;

@@ -7,6 +7,7 @@
   justify-content: center;
   display: flex;
   margin-left: 3%;
+  
 }
 
 
@@ -14,7 +15,7 @@
 .LanguagesList {
   background: #3399ff;
   padding: 5vw;
-  
+  height: 25vh;
 }
 
 .LanguagesList:hover {
@@ -25,6 +26,9 @@
   background: #cce5ff;
   color: darkblue;
   margin: 2vw;
+  font-size: 0.8em;
+  height: 8vh;
+  overflow: clip;
 }
 
 .Language:hover {
@@ -34,6 +38,7 @@
 .FrameworksList {
   background: #ff9999;
   padding: 5vw;
+  height: 25vh;
 }
 
 .FrameworksList:hover {
@@ -44,6 +49,9 @@
   background: #ffe5e5;
   color: darkred;
   margin: 2vw;
+  height: 8vh;
+  font-size: 0.8em;
+  overflow: clip;
 }
 
 .Framework:hover {
@@ -53,6 +61,7 @@
 .SkillsList {
   background: #eacf95;
   padding: 5vw;
+  height: 25vh;
 }
 
 .SkillsList:hover {
@@ -63,6 +72,9 @@
   background: #ffe5e5;
   color: darkorange;
   margin: 2vw;
+  font-size: 0.8em;
+  height: 8vh;
+  overflow: clip;
 }
 
 .Skill:hover {
@@ -78,7 +90,8 @@
 
 
 .ListHeader {
-  font-size: 3vh;
+  font-size: 1em;
+  height: 4vh;
   color: green;
   font-weight: bold;
 }
