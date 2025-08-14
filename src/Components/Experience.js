@@ -26,6 +26,7 @@ function Experience(props) {
         <button className="tablinks" onClick={event=>openRole(event, 'focus')} id="defaultOpen">Focus21</button>
         <button className="tablinks" onClick={event=>openRole(event, 'eagle')}>Eagle Business Software</button>
         <button className="tablinks" onClick={event=>openRole(event, 'stackpole')}>Stackpole International</button>
+        <button className="tablinks" onClick={event=>openRole(event, 'meomi')}>Meomi Lighting</button>
       </div>
 
 
@@ -52,6 +53,14 @@ function Experience(props) {
         <p className="ExperienceText">At Stackpole International I worked with Python, Django and Javascript to maintain and expand their internal manufacturing data visualization app.
           I recieved training for and worked partially in a manufacturing environment and learned a lot about IOT devices used within the plant.
         </p>
+      </div>
+
+
+      <div id="meomi" className="MyTabs">
+        <h4 className="ExperienceHeader">Web Developer / Account Representative(Oct 2024 - Present)</h4>
+
+        <p className="ExperienceText">At Meomi I helped to update and maintain the companies Wordpress website. I also added a Partner Portal to help our customers work with and keep track of jobs.
+        I've received lots of positive feedback on the portal and especially the simplicity of the interface and the interactions.</p>
       </div>
 
       

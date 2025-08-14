@@ -6,7 +6,7 @@
 
 
 .intro {
-  font-size: 3vw;
+  font-size: 1.5em;
   max-width: 100vh;
   margin: auto;
   color: #000000;
@@ -14,9 +14,23 @@
 }
 
 
+.introImage {
+  margin-top: 10vh;
+  border-radius: 40px;
+  border: 5px double green;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+
+.introImage:hover {
+  border-radius: 1px;
+  border: 5px double lightgreen;
+}
+
+
 
 .glow {
-  font-size: 8vw;
+  font-size: 3em;
   color: #000000;
   -moz-animation: glow 1s ease-in-out 1s infinite alternate;
   -webkit-animation: glow 1s ease-in-out 1s infinite alternate;

@@ -1,0 +1,16 @@
+
+.PortfolioGrid {
+  display: grid;
+  margin: auto;
+  width: 60vw;
+}
+
+
+.PortfolioPiece {
+  
+}
+
+
+.PortfolioPiece:hover {
+  scale: 1.2;
+}

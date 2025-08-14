@@ -19,7 +19,7 @@
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
-  font-size: 2.5vw;
+  font-size: 1.5em;
 }
 
 .tab button:hover {
@@ -34,7 +34,7 @@
 
 .ExperienceHeader {
   text-decoration: underline 5px dotted green;
-  font-size: 4vw;
+  font-size: 1.5em;
 }
 
 .ExperienceHeader:hover {
@@ -42,7 +42,7 @@
 }
 
 .ExperienceText {
-  font-size: 3vw;
+  font-size: 1.2em;
 }
 
 

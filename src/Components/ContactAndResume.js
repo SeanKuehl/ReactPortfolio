@@ -16,7 +16,7 @@ function ContactAndResume(props) {
       
       <ul className="ContactList">
         <li className="ContactInfo">Email: <a href={myEmail}>seanliamkuehl@gmail.com</a></li>
-        <li className="ContactInfo">Github: <a href={myGithub}>SeanKuehl</a></li>
+        <li className="ContactInfo">Phone: 519-722-3874</li>
         <li className="ContactInfo">LinkedIn: <a href={myLinkedIn}>Sean Kuehl</a></li>
       </ul>
 
