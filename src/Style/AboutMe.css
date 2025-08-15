@@ -12,10 +12,20 @@
 .AboutMeText {
   font-size: 1.5em;
   margin: auto;
-  max-width: 60vw;
+  max-width: 100vw;
 }
 
 
+
+
+@media only screen and (max-width: 375px) {
+  .AboutMeText {
+    
+    width: 90vw;
+    max-width: 90vw;
+    text-align: left;
+  }
+}
 
 
 

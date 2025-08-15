@@ -48,3 +48,13 @@
     text-shadow: 0 0 5px #afea9d, 0 0 6px #afea9d, 0 0 7px #afea9d, 0 0 8px #afea9d, 0 0 9px #afea9d, 0 0 10px #afea9d, 0 0 11px #afea9d;
   }
 }
+
+
+
+@media only screen and (max-width: 375px) {
+  .HeaderDiv {
+    text-align: left;
+    width: 90vw;
+    margin: auto;
+  }
+}

@@ -33,7 +33,7 @@ function Experience(props) {
       <div id="focus" className="MyTabs">
         <h4 className="ExperienceHeader">Software Developer Co-op at Focus21(May-Aug 2022)</h4>
 
-        <p className="ExperienceText">At Focus21 I worked on a completely remote team following Agile development sprints. We used React Native to build a mobile
+        <p className="ExperienceText">At Focus21 I worked on a completely remote team with members from around the world. We used React Native to build a mobile
           application according to UI prototypes based on client requirements. We used Android Studio and Xcode to test our application
           on different mobile platforms.
         </p>
