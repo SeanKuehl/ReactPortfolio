@@ -20,7 +20,7 @@ function WorkPortfolio(props) {
       
       <div className="PortfolioGrid">
         <a className="PortfolioPiece" href="https://elmira-stories-production.up.railway.app/">
-          <img src={ElmiraStoriesPic} width="300" height="200" alt="picture of Elmira Stories, a website I made"></img>
+          <img src={ElmiraStoriesPic} width="300" height="200" alt="Elmira Stories, a website I made"></img>
         </a>
       </div>
 
