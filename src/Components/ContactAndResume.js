@@ -6,7 +6,7 @@ import '../App.css';
 function ContactAndResume(props) {
 
   const myEmail = "mailto:seanliamkuehl@gmail.com";
-  const myGithub = "https://github.com/SeanKuehl";
+  
   const myLinkedIn = "https://www.linkedin.com/in/sean-kuehl-720611219/";
   
 
