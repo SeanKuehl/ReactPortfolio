@@ -7,7 +7,7 @@ function ContactAndResume(props) {
 
   const myEmail = "mailto:seanliamkuehl@gmail.com";
   
-  const myLinkedIn = "https://www.linkedin.com/in/sean-kuehl-720611219/";
+
   
 
   return (
@@ -17,10 +17,11 @@ function ContactAndResume(props) {
       
         <p className="ContactInfo">Email:</p>
         <p className="ContactInfo"><a href={myEmail}>seanliamkuehl@gmail.com</a></p>
+        <br></br>
+        <br></br>
         <p className="ContactInfo">Phone:</p>
-        <p>519-722-3874</p>
-        <p className="ContactInfo">LinkedIn:</p>
-        <p><a href={myLinkedIn}>Sean Kuehl</a></p>
+        <p className="ContactInfo">519-722-3874</p>
+        
       
 
       <p className="ContactCopy">&copy; Sean Kuehl 2024</p>
