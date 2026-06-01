@@ -1,8 +1,15 @@
 
 .PortfolioGrid {
-  display: grid;
+  display: flex;
+  justify-content: space-between;
+  margin:auto;
+  width: 40vw;
+}
+
+.AboutMeText {
+  font-size: 1.5em;
   margin: auto;
-  width: 60vw;
+  max-width: 60vw;
 }
 
 
@@ -10,6 +17,11 @@
   
 }
 
+
+.PortfolioPiece:hover {
+  scale: 1.5;
+  
+}
 
 .PortfolioPiece:hover {
   scale: 1.2;

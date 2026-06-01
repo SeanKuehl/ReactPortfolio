@@ -14,7 +14,8 @@ function ContactAndResume(props) {
     <div className="ContactDiv">
       <h2 className="SectionHeader"><b className="SectionBrackets">&lt;</b> Contact <b className="SectionBrackets">&gt;</b></h2>
       
-      
+        <p className="ContactInfo">Are you ready to start improving or have a chess question? I'm all ears!</p>  
+        <br></br>
         <p className="ContactInfo">Email:</p>
         <p className="ContactInfo"><a href={myEmail}>seanliamkuehl@gmail.com</a></p>
         <br></br>
@@ -24,7 +25,7 @@ function ContactAndResume(props) {
         
       
 
-      <p className="ContactCopy">&copy; Sean Kuehl 2024</p>
+      <p className="ContactCopy">&copy; Sean Kuehl 2026</p>
       <hr className="SectionDivider"></hr>
     </div>
 

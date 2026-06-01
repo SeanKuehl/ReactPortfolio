@@ -13,11 +13,11 @@ import ContactAndResume from './Components/ContactAndResume'
 function App() {
 
   
-  const introMessage = "Hey there, I'm Sean Kuehl. I'm a Freelance Web Developer living in the Calgary area who's passionate about helping small businesses and non-profits reach their full potential."
+  const introMessage = "Hey there, I'm Sean Kuehl. I'm a entry level chess tutor living in the Calgary area who's passionate about helping make chess not just fun to play, but improve at too."
 
   return (
     <div className="App">
-      <HeaderAndIntro name="{ Sean Kuehl }" message={introMessage}></HeaderAndIntro>
+      <HeaderAndIntro name="Sean Kuehl" message={introMessage}></HeaderAndIntro>
       <AboutMe></AboutMe>
       <WorkPortfolio></WorkPortfolio>
       <Experience></Experience>

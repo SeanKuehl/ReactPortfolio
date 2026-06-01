@@ -8,15 +8,14 @@ import '../App.css';
 
 function AboutMe(props) {
 
-  const linkToMyProgram = "https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours";
 
   return (
     <div className="AboutMeDiv">
       
       <h2 className="SectionHeader"><b className="SectionBrackets">&lt;</b> About Me <b className="SectionBrackets">&gt;</b></h2>
-      <p className="AboutMeText">I'm a graduate of the <a href={linkToMyProgram}>Conestoga College Bachelors of Computer Science</a> and
-        I have work experience in Web and Mobile development. I'm always looking for new things to explore and I love to tackle real problems with real impact to help everyone achieve their best.
-        </p>
+      <p className="AboutMeText"> I started out playing tournaments in Ontario and learning from my father, Scott Kuehl who was a master player in his day.
+        Since coming out to Calgary for work, I'm now exploring my love for chess even more and would like to share it with you too on my journey to become an IM!
+      </p>
       <hr className="SectionDivider"></hr>
     </div>
   );

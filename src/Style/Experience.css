@@ -47,6 +47,19 @@
 }
 
 
+.FocusList {
+  width: 40vw;
+  font-size: 1.2em;
+  margin: auto;
+}
+
+
+.FocusGrid {
+  display: flex;
+  justify-content: space-between;
+  width: 60vw;
+}
+
 
 .MyTabs {
   display: none;
