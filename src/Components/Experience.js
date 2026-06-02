@@ -1,8 +1,8 @@
 
 import '../Style/Experience.css';
 import '../App.css';
-import { defaultTab, openRole } from '../Components/ExperienceTabScript.js'
-import React, { useEffect } from 'react'
+
+import React from 'react'
 
 
  
@@ -23,14 +23,16 @@ function Experience(props) {
       
       
       <p className="ExperienceText">I can help you with</p>
-      <ul className="FocusList">
-        <li>Tactics</li>
-        <li>Avoiding and Punishing Blunders</li>
-        <li>Tournament Notation and Best Practices</li>
-        <li>Endgames</li>
-        <li>Learning Openings</li>
-        <li>Chess Principals</li>
-      </ul>
+
+      <br></br>
+
+      <p className="ExperienceText">Tactics</p>
+      <p className="ExperienceText">Avoiding and Punishing Blunders</p>
+      <p className="ExperienceText">Tournament Notation and Best Practices</p>
+      <p className="ExperienceText">Endgames</p>
+      <p className="ExperienceText">Learning Openings</p>
+      <p className="ExperienceText">Chess Principals</p>
+      
       
 
 

@@ -43,22 +43,19 @@
 }
 
 .ExperienceText {
-  font-size: 1.2em;
+  font-size: 1.5em;
 }
 
 
 .FocusList {
-  width: 40vw;
-  font-size: 1.2em;
+  width: content;
+  font-size: 1.5em;
   margin: auto;
+  
 }
 
 
-.FocusGrid {
-  display: flex;
-  justify-content: space-between;
-  width: 60vw;
-}
+
 
 
 .MyTabs {
