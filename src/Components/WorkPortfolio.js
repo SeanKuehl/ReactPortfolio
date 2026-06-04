@@ -20,7 +20,7 @@ function WorkPortfolio(props) {
       <h2 className="SectionHeader"><b className="SectionBrackets">&lt;</b> Portfolio <b className="SectionBrackets">&gt;</b></h2>
       
       <div>
-        <p className="AboutMeText">I'm currently 1617 CFC, 1876 FIDE and over 2000 on Lichess Classical</p>
+        <p className="AboutMeText">I'm currently 1699 CFC, 1876 FIDE and over 2000 on Lichess Classical</p>
 
         <br></br>
 
