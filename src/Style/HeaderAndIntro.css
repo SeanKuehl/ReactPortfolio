@@ -44,14 +44,16 @@
 
 @media only screen and (max-width: 875px) {
   .HeaderDiv {
-    text-align: left;
-    width: 80vw;
+    text-align: center;
+    width: 100vw;
     margin: auto;
+    justify-content: center;
   }
 
   .introImage {
-    width: 200;
-    height: 250;
+    width: 90vw;
+    height: 90vh;
+    margin: auto;
   }
 
 }

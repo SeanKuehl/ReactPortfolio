@@ -32,11 +32,11 @@
 
 
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 875px) {
 
   .ContactDiv {
     margin: auto;
-    width: 80vw;
+    width: 70vw;
   }
  
 }
