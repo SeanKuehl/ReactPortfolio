@@ -22,7 +22,7 @@ function Experience(props) {
       
       
       
-      <p className="ExperienceText">I can help you with</p>
+      <p className="ExperienceText"><b>I can help you with</b></p>
 
       <br></br>
 

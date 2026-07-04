@@ -6,6 +6,7 @@ import '../App.css';
 import CFC_Logo from "../assets/images/CFC_logo.png"
 import FIDE_Logo from "../assets/images/FIDE_logo.png"
 import Lichess_Logo from "../assets/images/Lichess_logo.png"
+import Chesscom_Logo from "../assets/images/chess-com.jpg"
 
  
 
@@ -20,7 +21,7 @@ function WorkPortfolio(props) {
       <h2 className="SectionHeader"><b className="SectionBrackets">&lt;</b> Portfolio <b className="SectionBrackets">&gt;</b></h2>
       
       <div>
-        <p className="AboutMeText">I'm currently 1699 CFC, 1876 FIDE and over 2000 on Lichess Classical</p>
+        <p className="AboutMeText">I'm currently 1699 CFC, 1876 FIDE, 1900 Chess.com and over 2000 on Lichess Classical</p>
 
         <br></br>
 
@@ -36,6 +37,11 @@ function WorkPortfolio(props) {
         <a href="https://lichess.org/@/BenFinegold129">
         <img className="PortfolioPiece" src={Lichess_Logo} alt="The logo of Lichess" width="100" height="100"></img>
         </a>
+
+        <a href="https://www.chess.com/member/seanliamkuehl">
+        <img className="PortfolioPiece" src={Chesscom_Logo} alt="The logo of Chess.com" width="100" height="100"></img>
+        </a>
+
         </div>
         
         
