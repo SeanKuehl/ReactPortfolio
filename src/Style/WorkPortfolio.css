@@ -26,3 +26,11 @@
 .PortfolioPiece:hover {
   scale: 1.2;
 }
+
+
+
+@media only screen and (max-width: 875px) {
+  .PortfolioGrid {
+    flex-direction: column;
+  }
+}
