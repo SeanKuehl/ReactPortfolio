@@ -21,7 +21,7 @@ function AboutMe(props) {
 
       
       <a href="https://calendar.app.google/tUam4eMrQwjuUJa26">
-      <button className='BookingButton'>&#9823; Book your free intro session today! &#9817;</button>
+      <button className='BookingButton'>&#9823; Book your intro session today! &#9817;</button>
       </a>
       
 
