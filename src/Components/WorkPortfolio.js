@@ -21,7 +21,7 @@ function WorkPortfolio(props) {
       <h2 className="SectionHeader"><b className="SectionBrackets">&lt;</b> Portfolio <b className="SectionBrackets">&gt;</b></h2>
       
       <div>
-        <p className="AboutMeText">I'm currently 1760 CFC, 1741 FIDE, 1980 Chess.com and over 2000 on Lichess Classical</p>
+        <p className="AboutMeText">I'm currently 1760 CFC, 1741 FIDE, 2000 Chess.com and over 2000 on Lichess Classical</p>
 
         <br></br>
 
