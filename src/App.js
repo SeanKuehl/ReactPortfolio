@@ -13,7 +13,7 @@ import ContactAndResume from './Components/ContactAndResume'
 function App() {
 
   
-  const introMessage = "Hey there, I'm Sean Kuehl. I'm a entry level chess tutor living in the Calgary area who's passionate about helping make chess not just fun to play, but improve at too."
+  const introMessage = "Hey there, I'm Sean Kuehl. I'm a chess tutor for emerging (0-1500) player living in Calgary who's passionate about helping make chess not just fun to play, but improve at too."
 
   return (
     <div className="App">
